@@ -5,7 +5,7 @@ import { MapPin, GraduationCap, Code2, Brain } from 'lucide-react';
 const stats = [
   { num: '4+', label: 'Projects', icon: Brain },
   { num: '2+', label: 'Internships', icon: Code2 },
-  { num: '8.04', label: 'CGPA', icon: GraduationCap },
+  { num: '8.25', label: 'CGPA', icon: GraduationCap },
 ];
 
 const About = () => {
